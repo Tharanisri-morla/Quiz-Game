@@ -1,5 +1,5 @@
 # Quiz-Game <br>
-<H2>About the project :~ <br>
+About the project :~ <br>
 This project is a simple Python-based quiz application created to practice basic programming concepts like loops, condition checking, and user input handling. The quiz contains multiple-choice questions, and the user answers by selecting options A, B, C, or D.<br>
 What This Program Does <br>
 
